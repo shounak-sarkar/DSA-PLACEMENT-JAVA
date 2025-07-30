@@ -27,16 +27,16 @@ public class SortLL {
         }
         return slow;
     }
-    public static void mergeSortLL(Node head){
-        if (head==null || head.next==null)return head;
-        Node middle=(findMiddle(head));
-        Node right=middle.next;
-        middle.next=null;
-        Node left=head;
-
-        left=mergesortLL(left);
-
-    }
+//    public static void mergeSortLL(Node head){
+//        if (head==null || head.next==null)return head;
+//        Node middle=(findMiddle(head));
+//        Node right=middle.next;
+//        middle.next=null;
+//        Node left=head;
+//
+//        left=mergesortLL(left);
+//
+//    }
 
     public static void main(String[] args) {
         int[] arr={6,2,3,1,19,10,15,12};

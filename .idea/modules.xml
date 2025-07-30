@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Trees/Binary Trees.iml" filepath="$PROJECT_DIR$/Binary Trees/Binary Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA-PLACEMENT-JAVA.iml" filepath="$PROJECT_DIR$/.idea/DSA-PLACEMENT-JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedLists/LinkedLists.iml" filepath="$PROJECT_DIR$/LinkedLists/LinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RECURSION/RECURSION.iml" filepath="$PROJECT_DIR$/RECURSION/RECURSION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortingAlgo/SortingAlgo.iml" filepath="$PROJECT_DIR$/SortingAlgo/SortingAlgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack nd Queue/Stack nd Queue.iml" filepath="$PROJECT_DIR$/Stack nd Queue/Stack nd Queue.iml" />
+    </modules>
+  </component>
+</project>

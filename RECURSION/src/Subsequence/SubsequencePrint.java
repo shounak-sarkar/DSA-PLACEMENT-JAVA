@@ -13,13 +13,15 @@ public class SubsequencePrint {
         printSubSequence(ind+1,arr,subList);
 
         //Remove the current element back tracking
+
         subList.remove(subList.size()-1);
         printSubSequence(ind+1,arr,subList);
     }
 
 
+
     public static void main(String[] args) {
-        int [] arr={2,3,4,5,9,10};
+        int [] arr={1,2,2};
         ArrayList<Integer> subList=new ArrayList<>();
 
         printSubSequence(0,arr,subList);
